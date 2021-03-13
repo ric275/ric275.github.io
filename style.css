@@ -8,6 +8,10 @@ h1 {
   margin-left: 20px;
 }
 
+h2 {
+  color: red;
+}
+
 li {
   color: red;
   margin-left: 60px;
