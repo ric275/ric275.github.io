@@ -7,3 +7,21 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+li {
+  color: red;
+  margin-left: 60px;
+}
+
+.year {
+  margin-left: 50px;
+  color: red;
+}
+
+.lines {
+  height:2px;
+  width:90%;
+  border-width:0;
+  color:black;
+  background-color:black;
+}
