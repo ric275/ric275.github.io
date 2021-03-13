@@ -18,15 +18,19 @@ li {
   margin-bottom: 12px;
 }
 
+footer {
+  text-align: center;
+}
+
 .year {
   margin-left: 50px;
   color: red;
 }
 
 .lines {
-  height:2px;
-  width:90%;
-  border-width:0;
-  color:black;
-  background-color:black;
+  height: 2px;
+  width: 90%;
+  border-width: 0;
+  color: black;
+  background-color: black;
 }
