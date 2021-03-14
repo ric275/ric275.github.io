@@ -1,7 +1,8 @@
 body {
   background-color: #4d7694;
   margin-left: 20px;
-  color: white
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 h1 {
