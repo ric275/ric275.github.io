@@ -1,10 +1,11 @@
 body {
-  background-color: lightblue;
+  background-color: #4d7694;
   margin-left: 20px;
+  color: white
 }
 
 h1 {
-  color: navy;
+  color: white;
   margin-left: 20px;
 }
 
@@ -13,7 +14,7 @@ h2 {
 }
 
 li {
-  color: red;
+  color: white;
   margin-left: 60px;
   margin-bottom: 12px;
 }
@@ -22,15 +23,49 @@ footer {
   text-align: center;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .year {
   margin-left: 50px;
-  color: red;
+  color: white;
+}
+
+.year_80s {
+  margin-left: 50px;
+  color: beige;
+}
+
+.year_90s {
+  margin-left: 50px;
+  color: blue;
 }
 
 .lines {
   height: 2px;
   width: 90%;
   border-width: 0;
-  color: black;
-  background-color: black;
+  color: white;
+  background-color: white;
 }
